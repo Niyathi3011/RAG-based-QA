@@ -42,7 +42,8 @@ Please refer to the individual code files for more detailed explanations and ins
     - T5 model, with the passages retrieved, performed better when compared to the other two models. 
     - These results can be seen in the respective notebooks, in the git repository. 
 
-##Questions and Generated Answers : 
+## Questions and Generated Answers : 
+
 
 ## Thoughts : 
 
