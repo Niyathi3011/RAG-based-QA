@@ -31,3 +31,9 @@ This repository contains code for a question-answering system. The system utiliz
 
 Please refer to the individual code files for more detailed explanations and instructions on running the code.
 
+## Code Explanations 
+
+1. `classify_passages` : 
+    - I have used cosine similarity to generate positive and negative passages, with the threshold for similarity > 0.55 for the contrastive learning. 
+    - When BM25 was used for classifying positive and negative passages and then used for contrastive learning, the T5 model seemed to generate relevant answers. 
+
