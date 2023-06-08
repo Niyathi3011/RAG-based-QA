@@ -35,5 +35,12 @@ Please refer to the individual code files for more detailed explanations and ins
 
 1. `classify_passages` : 
     - I have used cosine similarity to generate positive and negative passages, with the threshold for similarity > 0.55 for the contrastive learning. 
-    - When BM25 was used for classifying positive and negative passages and then used for contrastive learning, the T5 model seemed to generate relevant answers. 
+    - When BM25 was used for classifying positive and negative passages and then used for contrastive learning, the T5 model seemed to generate relevant answers.  
+
+2. `models for generation` : 
+    - RAG Generator, BART and T5 model have been used for the text generation. I had to stick to these models owing to the resource limitations on my google collab.  
+    - T5 model, with the passages retrieved, performed better when compared to the other two models. 
+    - These results can be seen in the respective notebooks, in the git repository. 
+
+## Thoughts : 
 
