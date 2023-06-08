@@ -54,7 +54,11 @@ Please refer to the individual code files for more detailed explanations and ins
 
 3. `When did the GARDASIL 9 recommendations change?` 
 ![alt_text](https://github.com/Niyathi3011/TrueFoundry_Assignment/blob/main/Screenshot%202023-06-08%20at%203.50.29%20AM.png)
-<!-- ![alt_text](https://github.com/Niyathi3011/TrueFoundry_Assignment/blob/main/Screenshot%202023-06-08%20at%203.42.44%20AM.png)  -->
+<!-- ![alt_text](https://github.com/Niyathi3011/TrueFoundry_Assignment/blob/main/Screenshot%202023-06-08%20at%203.42.44%20AM.png)  --> 
+
+4. `Is GARDASIL 9 recommended for Adults?`
+![alt_text](https://github.com/Niyathi3011/TrueFoundry_Assignment/blob/main/Screenshot%202023-06-08%20at%203.55.16%20AM.png)
+
 ## Thoughts : 
 
 1. `Dataset` : 
