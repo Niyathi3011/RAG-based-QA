@@ -25,7 +25,9 @@ This repository contains code for a question-answering system. The system utiliz
    - This script performs similarity search using the FAISS library. It creates an index using the HNSWFlat algorithm and adds the embeddings of passages to the index. It also demonstrates how to perform a search using a query embedding.
 
 8. `generate_answers`:
-   - This script generates answers to user queries using the T5 model. It combines the question and relevant context, encodes them, generates an answer using the model, and prints the generated answers.
+   - This script generates answers to user queries using the T5 model. It combines the question and relevant context, encodes them, generates an answer using the model, and prints the generated answers. 
+   - RAG Generator model from the hugging face has also been tried, but, the generated answers were not relevant or good enough. 
+   - T5 performed better than the RAG Generator 
 
 Please refer to the individual code files for more detailed explanations and instructions on running the code.
 
