@@ -45,8 +45,12 @@ Please refer to the individual code files for more detailed explanations and ins
 ## Questions and Generated Answers : 
 
 1. `What were the past 3 recommendation changes for GARDASIL 9?`
+![alt_text](https://github.com/Niyathi3011/TrueFoundry_Assignment/blob/main/Screenshot%202023-06-08%20at%203.36.50%20AM.png)
+![alt text](https://github.com/Niyathi3011/TrueFoundry_Assignment/blob/main/Screenshot%202023-06-08%20at%203.36.31%20AM.png) 
 
-![alt text](https://github.com/Niyathi3011/TrueFoundry_Assignment/blob/main/Screenshot%202023-06-08%20at%203.36.31%20AM.png)
+2. `Does the ACIP recommend one dose GARDASIL 9?` 
+![alt_text](https://github.com/Niyathi3011/TrueFoundry_Assignment/blob/main/Screenshot%202023-06-08%20at%203.43.46%20AM.png)
+![alt_text](https://github.com/Niyathi3011/TrueFoundry_Assignment/blob/main/Screenshot%202023-06-08%20at%203.42.44%20AM.png)
 ## Thoughts : 
 
 1. `Dataset` : 
