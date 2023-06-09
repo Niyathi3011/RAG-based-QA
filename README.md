@@ -65,5 +65,9 @@ Please refer to the individual code files for more detailed explanations and ins
     - I have not generated any question answer pairs from the given pdfs. So, I had to stick to Retriever based augmented generation. 
     - Contrastive learning, proved to be helpful to retrieve the relevant passages with high similarity. 
     - But, there are couple of issues with the contrastive learning, as it is highly hyperparameter sensitive, and the boundary to generate       negative passages is questionable. 
+    - Without the annotated dataset, it got little difficult for the question answering. 
+https://aclanthology.org/2020.emnlp-main.550.pdf 
+https://arxiv.org/abs/2106.11517 
+
 
 
